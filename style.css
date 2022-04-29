@@ -46,6 +46,15 @@ p{
     color: var(--black); 
 }
 
+.intro{
+    font-size: 3.6rem;
+}
+
+.state{
+    font-size: 2rem;
+}
+
+
 .container{
     margin: 0 auto;
 }
