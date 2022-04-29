@@ -283,6 +283,7 @@ span.effect{
     box-shadow: var(--box-shadow-2);
     position: relative;
     z-index: -1;
+    margin-bottom: 30px;
 }
 
 .ab{
